@@ -12,7 +12,7 @@ import React, { useEffect, useMemo, useState } from "react";
  */
 
 // 👉 Pon aquí tu fecha REAL de fin de oferta
-const DEADLINE = new Date("2025-08-20T23:59:59+02:00");
+const DEADLINE = new Date("2025-08-24T23:59:59+02:00");
 const PRICE = 149;
 const CONTACT_URL =
   "https://wa.me/34634634114?text=Hola%20Vandeep%2C%20quiero%20mi%20EPK%20web%20en%2048h.%20%C2%BFPr%C3%B3ximos%20huecos%3F"; // cambia número
